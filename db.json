@@ -1,0 +1,60 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "phoneName": "Samsung Galaxy S22 5G",
+      "phoneImage": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s22/buy/S22_KV_5_MO.jpg",
+      "phoneModel": "S22",
+      "phoneBrand": "S22",
+      "phonePrice": "1000$"
+    },
+    {
+      "id": 2,
+      "phoneName": "Apple iPhone 13 Pro",
+      "phoneModel": "iPhone 13 Pro",
+      "phoneBrand": "Apple",
+      "phonePrice": "1200$",
+      "phoneImage": "https://assets.zabayen.net/images/720x720/productimage/2022/02/08/3a01ecc9-5c7e-2d6b-0535-9f4ce8f76834.jpg"
+    },
+    {
+      "id": 3,
+      "phoneName": "Samsung Galaxy A53 5G",
+      "phoneModel": "A53 5G",
+      "phoneBrand": "Samsung",
+      "phonePrice": "350$",
+      "phoneImage": "https://lzd-img-global.slatic.net/g/p/a8aabd7f0ed99ce72220f8768d939baa.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": 4,
+      "phoneName": "Apple iPhone 14",
+      "phoneModel": "iPhone 14",
+      "phoneBrand": "Apple",
+      "phonePrice": "1100$",
+      "phoneImage": "https://i0.wp.com/maplestore.in/wp-content/uploads/2022/09/iphone-14-pro-finish-select-202209-6-7inch-deeppurple_AV1_GEO_EMEA.jpeg?fit=720%2C720&ssl=1"
+    },
+    {
+      "id": 5,
+      "phoneName": "Apple iPhone 12 Pro Max",
+      "phoneModel": "iPhone 12 Pro Max",
+      "phoneBrand": "Apple",
+      "phonePrice": "1200$",
+      "phoneImage": "https://ratrading.co/wp-content/uploads/2020/10/12promax.jpg"
+    },
+    {
+      "phoneName": "samsung galaxy ",
+      "phoneImage": "https://www.links.hr/content/images/thumbs/014/0146762_smartphone-samsung-galaxy-a13-6-6-3gb-32gb-android-12-crni-010301074.jpg",
+      "phoneModel": "a13",
+      "phoneBrand": "samsung",
+      "phonePrice": "150 $",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "phoneName": "test",
+      "phoneImage": "https://www.visible.com/shop/assets/images/shop/catalogue/iPhone_12_mini_PUR_1.jpg",
+      "phoneModel": "test",
+      "phoneBrand": "test",
+      "phonePrice": "1111"
+    }
+  ]
+}
