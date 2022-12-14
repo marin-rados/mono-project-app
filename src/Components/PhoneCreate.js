@@ -48,7 +48,7 @@ const PhoneCreate = () => {
                                         <div className="form-group">
                                             <label>Name</label>
                                             <input required value={phoneName} onMouseDown={e=>setValidation(true)} onChange={e=>setPhoneName(e.target.value)} className="form-control"></input>
-                                            {phoneName.length==0 && validation && <span className="text-danger">Enter the name</span>}
+                                            {phoneName.length==0 && validation && <span className="text-danger">Enter the phone name</span>}
                                         </div>
                                     </div>
 
